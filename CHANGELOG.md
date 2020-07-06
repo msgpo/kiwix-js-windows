@@ -5,6 +5,7 @@
 * UPDATE: WikiMed ZIM archive to wikipedia_en_medicine_maxi_2020-07
 * FIX: Bug preventing all Kiwix apps accessing latest ZIMs (incorrect method of reading MIME type list)
 * FIX: Bug displaying extraneous titles in case-insensitive search
+* FIX: Several bugfixes to allow better running of Electron app in SW mode
 
 ## Release 0.9.9.99 WikiMed (beta)
 
